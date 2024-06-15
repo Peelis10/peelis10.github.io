@@ -20,6 +20,15 @@ body {
     width: 250px;
     height: 150px;
   }
+  .guy {
+    position: absolute;
+    left: 1400px;
+    top: 400px;
+    border-radius: 20px;
+    border: 5px solid#303030;
+    width: 150px;
+    height: 150px;
+  }
   h1 {
     color: whitesmoke;
     font-family: cursive;
